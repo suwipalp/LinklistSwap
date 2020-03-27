@@ -23,7 +23,7 @@ public class LinklistSwapController {
         swapService = new LinklistSwapService();
     }
 
-    @GetMapping("/linklistswap")
+    @GetMapping("/linklistSwap")
     public String linklistSwap(
         @RequestParam(value = "linklist", required = false)
         @Valid
