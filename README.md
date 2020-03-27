@@ -23,7 +23,7 @@ The API will work as below :
 # Calling the API
 This API was deployed on Google App Engine. You can try to call it by making a GET request (using POSTMAN, browser, curl, etc.) to the following URL:  
 
-Ex 1. Request to to API with parameter "1->2->3->4"  
+Ex 1. Request to API with parameter "1->2->3->4"  
 (Note: the parameter is base64 encoded and URL encoded)
 
 	https://linklistswap.appspot.com/linklistSwap?linklist=MS0%2BMi0%2BMy0%2BNA%3D%3D
